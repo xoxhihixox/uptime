@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 93,
-    "timeDay": 96,
+    "timeDay": 87,
     "timeWeek": 93,
     "timeMonth": 93,
     "timeYear": 93,
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 137,
-    "timeDay": 105,
-    "timeWeek": 137,
-    "timeMonth": 137,
-    "timeYear": 137,
+    "time": 148,
+    "timeDay": 235,
+    "timeWeek": 148,
+    "timeMonth": 148,
+    "timeYear": 148,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/develang.international.gc.ca.ico",
     "slug": "develang",
     "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.71%",
-    "time": 219,
-    "timeDay": 220,
-    "timeWeek": 219,
-    "timeMonth": 219,
-    "timeYear": 219,
+    "uptime": "91.40%",
+    "uptimeDay": "69.51%",
+    "uptimeWeek": "91.40%",
+    "uptimeMonth": "91.40%",
+    "uptimeYear": "91.40%",
+    "time": 224,
+    "timeDay": 234,
+    "timeWeek": 224,
+    "timeMonth": 224,
+    "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-05-31": 14
+      "2025-06-01": 232,
+      "2025-05-31": 207
     }
   },
   {
@@ -66,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 408,
-    "timeDay": 448,
-    "timeWeek": 408,
-    "timeMonth": 408,
-    "timeYear": 408,
+    "time": 423,
+    "timeDay": 548,
+    "timeWeek": 423,
+    "timeMonth": 423,
+    "timeYear": 423,
     "dailyMinutesDown": {}
   }
 ]
